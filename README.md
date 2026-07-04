@@ -95,3 +95,5 @@ Puerto Rico is the market with the lowest revenue contribution, yet it reveals s
 1. **Download:** Download the `.xlsx` dashboard file from this repository.
 2. **Explore:** Open the file in Microsoft Excel and navigate to the main visual interface.
 3. **Filter:** Use the **Year** and **Customer Country** slicers to dynamically watch the charts, KPIs, and Pareto distributions adapt, replicating the analytical investigation detailed above.
+
+Dataset link: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
