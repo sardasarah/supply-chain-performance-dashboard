@@ -6,6 +6,11 @@ This project features an executive-level Supply Chain and Logistics dashboard de
 
 The analysis deep dives into key operational metrics, cross-referencing carrier performance, regional constraints, and seasonal trends to uncover supply chain vulnerabilities.
 
+
+
+https://github.com/user-attachments/assets/bf7350eb-42d8-4adb-9f81-f5736208f335
+
+
 ---
 
 ## 🛠️ Key Steps & Methodology
