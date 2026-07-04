@@ -8,7 +8,11 @@ The analysis deep dives into key operational metrics, cross-referencing carrier 
 
 
 
-https://github.com/user-attachments/assets/bf7350eb-42d8-4adb-9f81-f5736208f335
+
+
+https://github.com/user-attachments/assets/41eab1b1-39b3-49dc-8e1c-431d6a99da19
+
+
 
 
 ---
