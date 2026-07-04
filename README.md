@@ -1,14 +1,3 @@
-# supply-chain-performance-dashboard
-Interactive Supply Chain Analytics dashboard tracking logistics performance, regional SLA bottlenecks, and seasonal delivery trends.
-
-Ah, verdade! Você mandou o escopo do **Bike Sales Dashboard**, mas o que estávamos destrinchando antes era o seu **Supply Performance Chain Dashboard** (aquele do faturamento bilionário, dos atrasos nos EUA em agosto e em Porto Rico em janeiro).
-
-Se você quiser deixar o seu perfil do GitHub perfeito com os **dois projetos**, aqui está a descrição comercial ideal para o repositório do **Supply Chain** (já que o do Bike Sales nós já estruturamos).
-
-Cole esta versão em inglês no arquivo `README.md` do seu repositório de Supply Chain para que ele fique no mesmo nível profissional do outro:
-
----
-
 # 📊 Supply Chain Performance Dashboard
 
 ## 🚚 Project Overview
