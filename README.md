@@ -97,3 +97,4 @@ Puerto Rico is the market with the lowest revenue contribution, yet it reveals s
 3. **Filter:** Use the **Year** and **Customer Country** slicers to dynamically watch the charts, KPIs, and Pareto distributions adapt, replicating the analytical investigation detailed above.
 
 Dataset link: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+OneDrive link: https://unimarbr-my.sharepoint.com/:x:/g/personal/2041365_unimar_br/IQAyck4xjNcgQqOxkNBMVOSUAX0goYbW589CZzaZrNmgCE4?e=gTuPJS
